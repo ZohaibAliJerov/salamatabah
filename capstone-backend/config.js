@@ -1,0 +1,10 @@
+const PARSE_APP_ID = process.env.PARSE_APP_ID;
+const PARSE_JAVASCRIPT_KEY = process.env.PARSE_JAVASCRIPT_KEY;
+const MASTER_KEY = process.env.MASTER_KEY;
+
+module.exports = {
+  PARSE_APP_ID: "pTQQhoDVwIqUTzCHiAuH2jyQT2E5JRQAplefad7b",
+  // PARSE_JAVASCRIPT_KEY: "J13XFFleLGQBgrEMjpn46KTpgtmLFmIHIb58IEnF",
+  PARSE_JAVASCRIPT_KEY:"xEdry3m8ykJXZyEXcGetyGP9Wpw4CcRbxLDkMkWB",
+  MASTER_KEY: "OttvVWsdXpDrAGrixgCJ5CShocSlUBASi8svhBSk",
+};

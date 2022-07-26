@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+.body{
+    margin: 0;
+    padding: 0;
+}
+.accountProfile > h1{
+color: black;
+
+}
+.accountProfile{
+   text-align: center;
+   font-size: xx-large;
+
+    }
+ .input{
+        margin-top: 20px;
+        margin-left: 20px;
+        /* background-color: red; */
+        
+    }
+    .label{
+        margin-left: 10px;
+    }  
+    .editButton{
+        margin-top: 50px;
+        margin-right: 230px;
+        /* background-color: red; */
+        display: flex;
+        justify-content:right;
+    }
+
+    .editButton > button{
+        border: none;
+        background-color: rgb(74, 148, 233);
+        border-radius: 10%;
+        width: 100px;
+        height: 50px;
+    }
